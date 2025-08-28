@@ -4,22 +4,22 @@ import { Quote } from 'lucide-react';
 const memories = [
   {
     title: 'Our First Date',
-    text: "I remember being so nervous, but the moment I saw your smile, everything felt perfect.",
+    text: "I remember being so nervous, but the moment I saw your smile, everything felt perfect. Then we held hands and walked. I immersed into you and the world went oblivious.",
     side: 'left'
   },
   {
     title: 'Late Night Conversations',
-    text: "Those midnight texts we used to have. I miss those so much.",
+    text: "Those midnight texts we used to have in the first year. I miss those so much. There was a different chemistry at night, and I loved that energy. What if we do so again ?",
     side: 'right'
   },
   {
     title: 'Your Laugh',
-    text: "The first time I made you truly laugh, I knew I wanted to be the reason for that sound.",
+    text: "The first time I made you truly laugh, I knew I wanted to be the reason for that sound and make you laugh a little harder.",
     side: 'left'
   },
   {
     title: 'Building Dreams',
-    text: "Planning our future together, we have seen so much we wanna do together.",
+  text: "Dreaming up our future home, charting adventures around the world, and turning countless little fantasies into plans together.",
     side: 'right'
   }
 ];

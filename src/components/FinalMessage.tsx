@@ -1,4 +1,4 @@
-import React, { useRef } from 'react';
+import { React, useRef} from 'react';
 import { Heart, Infinity } from 'lucide-react';
 
 const FinalMessage: React.FC = () => {
