@@ -1,12 +1,12 @@
 import React, { useRef } from 'react';
 
 const galleryImages = [
-  { src: '/gallery1.jpg', alt: 'Memory 1' },
-  { src: '/gallery2.jpg', alt: 'Memory 2' },
-  { src: '/gallery3.jpg', alt: 'Memory 3' },
-  { src: '/gallery4.jpg', alt: 'Memory 4' },
-  { src: '/gallery5.jpg', alt: 'Memory 5' },
-  { src: '/gallery6.jpg', alt: 'Memory 6' }
+  { src: '/gallery1.jpg', alt: 'Us' },
+  { src: '/gallery2.jpg', alt: 'Being' },
+  { src: '/gallery3.jpg', alt: 'Us' },
+  { src: '/gallery4.jpg', alt: 'Just' },
+  { src: '/gallery5.jpg', alt: 'As' },
+  { src: '/gallery6.jpg', alt: 'Always' }
 ];
 
 // No per-item transforms for the 3x2 grid — keep items even
